@@ -1,0 +1,34 @@
+{
+  "name": "linter-coverage",
+  "description": "Show code coverage data in the Atom Linter / Atom IDE Diagnostics pane",
+  "version": "0.1.0",
+  "author": {
+    "name": "Robert Rossmann",
+    "email": "rr.rossmann@me.com"
+  },
+  "bugs": "https://github.com/dreamscapes/linter-coverage/issues",
+  "consumedServices": {
+    "linter-indie": {
+      "versions": {
+        "^2.0.0": "consumeLinter"
+      }
+    }
+  },
+  "contributors": [],
+  "dependencies": {
+    "lcov-parse": "^1.0.0"
+  },
+  "devDependencies": {
+    "@strv/eslint-config-javascript": "^7.9.0",
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.18.0"
+  },
+  "engines": {
+    "atom": "^1.24.0"
+  },
+  "homepage": "https://github.com/dreamscapes/linter-coverage",
+  "keywords": [],
+  "license": "BSD-3-Clause",
+  "main": "lib/index.js",
+  "repository": "https://github.com/dreamscapes/linter-coverage"
+}
