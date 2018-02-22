@@ -1,6 +1,6 @@
 {
   "name": "linter-coverage",
-  "description": "Show code coverage data in the Atom Linter / Atom IDE Diagnostics pane",
+  "description": "Show code coverage data in Atom Linter / Atom IDE Diagnostics pane",
   "version": "0.1.0",
   "author": {
     "name": "Robert Rossmann",
