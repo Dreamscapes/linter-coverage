@@ -30,9 +30,12 @@
   "engines": {
     "atom": "^1.24.0"
   },
-  "homepage": "https://github.com/dreamscapes/linter-coverage",
+  "homepage": "https://atom.io/packages/linter-coverage",
   "keywords": [],
   "license": "BSD-3-Clause",
   "main": "lib/index.js",
-  "repository": "https://github.com/dreamscapes/linter-coverage"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dreamscapes/linter-coverage.git"
+  }
 }
