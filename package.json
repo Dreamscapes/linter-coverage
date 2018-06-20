@@ -19,7 +19,7 @@
     "lcov-parse": "^1.0.0"
   },
   "devDependencies": {
-    "@strv/eslint-config-javascript": "^7.9.0",
+    "@strv/eslint-config-javascript": "^7.11.0",
     "babel-eslint": "^8.2.1",
     "eslint": "^4.18.0",
     "remark-cli": "^5.0.0",
