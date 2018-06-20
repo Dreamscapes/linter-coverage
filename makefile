@@ -23,6 +23,9 @@ lint: force install
 	eslint --report-unused-disable-directives $(lintflags) .
 	remark --quiet .
 
+report: install
+	nyc --reporter lcov node report
+
 clean: force
 	rm -rf {.nyc_output,coverage,docs}
 

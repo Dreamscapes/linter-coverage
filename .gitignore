@@ -1,5 +1,6 @@
 # Generated files
 node_modules
+coverage
 
 # Garbage
 *.lerna_backup

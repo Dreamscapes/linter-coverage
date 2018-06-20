@@ -22,6 +22,7 @@
     "@strv/eslint-config-javascript": "^7.11.0",
     "babel-eslint": "^8.2.1",
     "eslint": "^4.18.0",
+    "nyc": "^12.0.2",
     "remark-cli": "^5.0.0",
     "remark-preset-lint-consistent": "^2.0.1",
     "remark-preset-lint-markdown-style-guide": "^2.1.1",
