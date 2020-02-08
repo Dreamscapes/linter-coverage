@@ -1,7 +1,7 @@
 {
   "name": "linter-coverage",
   "description": "Show code coverage data in Atom Linter / Atom IDE Diagnostics pane",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": {
     "name": "Robert Rossmann",
     "email": "rr.rossmann@me.com"
